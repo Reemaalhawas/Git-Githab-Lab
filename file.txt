@@ -1,2 +1,6 @@
 nul 
+<<<<<<< HEAD
 " HI " 
+=======
+"Feature  A Content"  
+>>>>>>> feature-a
